@@ -59,6 +59,14 @@ module.exports = {
       name: 'Blog',
       link: 'https://blog.yfyang.me/',
     },
+    {
+      name: 'RSS',
+      link: 'https://blog.yfyang.me/feed.xml',
+    }
+    // {
+    //   name: 'Twitter',
+    //   link: 'https://twitter.com/northsecond',
+    // },
   ],
 
   // This is a day.js-style datetime format string to format datetimes in the app. Ref to
