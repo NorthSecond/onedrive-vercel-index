@@ -45,7 +45,7 @@ module.exports = {
   protectedRoutes: ['/private_files'],
 
   // [OPTIONAL] Use "" here if you want to remove this email address from the nav bar.
-  email: 'mailto:yangyf83@aliyun.com',
+  email: 'contact@yfyang.me',
 
   // [OPTIONAL] This is an array of names and links for setting your social information and links.
   // In the latest update, all brand icons inside font awesome is supported and the icon to render is based on the name
@@ -63,10 +63,6 @@ module.exports = {
       name: 'RSS',
       link: 'https://blog.yfyang.me/feed.xml',
     }
-    // {
-    //   name: 'Twitter',
-    //   link: 'https://twitter.com/northsecond',
-    // },
   ],
 
   // This is a day.js-style datetime format string to format datetimes in the app. Ref to
